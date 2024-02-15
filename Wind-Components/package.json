@@ -1,0 +1,27 @@
+{
+  "name": "@teamfunction/wind-components",
+  "version": "0.9.0",
+  "description": "Tailwind UI components built with Vue",
+  "main": "src/nuxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GroupTen/Wind-Components.git"
+  },
+  "keywords": [
+    "tailwind",
+    "vue",
+    "css",
+    "tailwindui",
+    "nuxt",
+    "vuejs"
+  ],
+  "author": "Stephen Toms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GroupTen/Wind-Components/issues"
+  },
+  "homepage": "https://github.com/GroupTen/Wind-Components/#readme"
+}

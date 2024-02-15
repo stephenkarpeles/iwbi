@@ -1,0 +1,63 @@
+export default () => ({
+  basicInformationData: {},
+  questions: [],
+  completed: false,
+  assessmentKey: null,
+  projectName: null,
+  approximateSize: null,
+  spaceType: null,
+  portfolioNumber: null,
+  assessmentType: null,
+  pdfLink: null,
+  reportRibbon: {
+    step: null,
+    feature: null,
+  },
+  report: {
+    percentages: {
+      blue: 0.0,
+      green: 0.0,
+      yellow: 0.0,
+      peach: 0.0,
+      grey: 0.0,
+    },
+    r: {
+      Guaranteed: {
+        totalPoints: null,
+        color: null,
+        heading: null,
+        footer: null,
+        q: [],
+      },
+      Green: {
+        totalPoints: null,
+        color: null,
+        heading: null,
+        footer: null,
+        q: [],
+      },
+      Yellow: {
+        totalPoints: null,
+        color: null,
+        heading: null,
+        footer: null,
+        q: [],
+      },
+      Red: {
+        totalPoints: null,
+        color: null,
+        heading: null,
+        footer: null,
+        q: [],
+      },
+      Black: {
+        totalPoints: null,
+        color: null,
+        heading: null,
+        footer: null,
+        q: [],
+      },
+    },
+    texts: [],
+  },
+})
